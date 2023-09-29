@@ -6,11 +6,14 @@ Sou apaixonado na area de programção, sendo assim estudo e faço alguns cursos
 # Cursos Realizados <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖</font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝</font></font>
 
 Curso Basico de JavaScript (40 Horas).
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 Curso Basico de Git e GitHub (20 Horas).
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 Cursando atualmente o curso de JavaScript e TypeScript - front-end e back-end (Full Stack) - HTML5, CSS3, NodeJS, Express, noSQL, React, hooks, Redux, Design Patterns.
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
