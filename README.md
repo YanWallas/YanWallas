@@ -51,5 +51,3 @@ Sou apaixonado na area de programção, sendo assim estudo e faço alguns cursos
   </a>
 </p>
 
-![Snake animation](https://github.com/{{YanWallas}}/{{YanWallas}}/blob/output/github-contribution-grid-snake.svg)
-
