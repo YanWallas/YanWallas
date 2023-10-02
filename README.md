@@ -1,6 +1,7 @@
-# Olá, Meu nome é Yan-Wallas.😆<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤗</font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👋</font></font>
 
-Atualmente tenho 25 anos, moro em Goiânia-Goiás/Brasil. Estou fazendo faculdade de Gestão da Tecnologia da Informação (Quase me Formando).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=rgb(139,0,0)&size=32&center=true&vCenter=true&width=1000&lines=OLÁ,+BEM+VINDOS+AO+MEU+PERFIL!;+ME+CHAMO+YAN+WALLAS+E+MORO+EM+GOIÂNIA-GO;TENHO+25+ANOS+E+ESTOU+EM+BUSCA+DE+OPORTUNIDADES!)](https://git.io/typing-svg)
+
+Estou fazendo faculdade de Gestão da Tecnologia da Informação (Quase me Formando).
 Sou apaixonado na area de programção, sendo assim estudo e faço alguns cursos além da faculdade para melhor aprendizagem e foca mais na area, querendo me torna um programador e atuar na area.
 
 # Cursos Realizados <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖</font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝</font></font>
@@ -28,13 +29,9 @@ Sou apaixonado na area de programção, sendo assim estudo e faço alguns cursos
 
 # Redes Sociais <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📌</font></font>
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yanwallas/)
+[![LinkedIn Badge](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/yan-wallas-4730a2239/)
 
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📍</font></font> https://www.instagram.com/yanwallas/ 
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📍</font></font>  https://www.linkedin.com/in/yan-wallas-4730a2239/
 
 # Conhecimento nos conjuntos de ferramentas e tecnologias.
 
@@ -47,8 +44,12 @@ Sou apaixonado na area de programção, sendo assim estudo e faço alguns cursos
 
 
 # Estatística
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanWallas&theme=dark&show_icons=true)](https://github.com/YanWallas/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanWallas&layout=compact&theme=dark&show_icons=true)](https://github.com/YanWallas/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/mrhowaito">
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YanWallas&show_icons=true&include_all_commits=true&count_private=false&title_color=6954e3&icon_color=ccbb00&text_color=c9d1d9&bg_color=0d1117"/>
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YanWallas&layout=compact&langs_count=7&title_color=6954e3&icon_color=ccbb00&text_color=c9d1d9&bg_color=0d1117"/>
+  </a>
+</p>
 
-    
+![Snake animation](https://github.com/YanWallas/YanWallas/blob/output/github-contribution-grid-snake-dark.svg) 
 
