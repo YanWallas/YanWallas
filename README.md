@@ -31,7 +31,7 @@ Sou apaixonado na area de programção, sendo assim estudo e faço alguns cursos
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yanwallas/)
 [![LinkedIn Badge](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/yan-wallas-4730a2239/)
-
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62994300307)
 
 # Conhecimento nos conjuntos de ferramentas e tecnologias.
 
@@ -51,5 +51,5 @@ Sou apaixonado na area de programção, sendo assim estudo e faço alguns cursos
   </a>
 </p>
 
-![Snake animation](https://github.com/YanWallas/YanWallas/blob/output/github-contribution-grid-snake-dark.svg) 
+![Snake animation](https://github.com/{{YanWallas}}/{{YanWallas}}/blob/output/github-contribution-grid-snake.svg)
 
