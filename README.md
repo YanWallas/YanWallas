@@ -46,8 +46,8 @@ Sou apaixonado na area de programção, sendo assim estudo e faço alguns cursos
 # Estatística
 <p align="center">
   <a href="https://github.com/mrhowaito">
-    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YanWallas&show_icons=true&include_all_commits=true&count_private=false&title_color=6954e3&icon_color=ccbb00&text_color=c9d1d9&bg_color=0d1117"/>
-    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YanWallas&layout=compact&langs_count=7&title_color=6954e3&icon_color=ccbb00&text_color=c9d1d9&bg_color=0d1117"/>
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YanWallas&show_icons=true&include_all_commits=true&count_private=false&title_color=6954e3&icon_color=ccbb00&text_color=c9d1d9&bg_color=0d1117"/>
+    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YanWallas&layout=compact&langs_count=7&title_color=6954e3&icon_color=ccbb00&text_color=c9d1d9&bg_color=0d1117"/>
   </a>
 </p>
 
