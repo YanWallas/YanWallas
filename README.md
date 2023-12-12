@@ -23,10 +23,10 @@ Sendo assim estudo e faço alguns cursos além da faculdade para melhor aprendiz
 - Certificado de Conclusão de 20 horas.
 
 
-# (Cursando) Curso do Básico ao Avançado de ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  e  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+# (Cursando) Curso Avançado de ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  e  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 
 - Pela Plataforma de Cursos,  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-- Front-end e Back-end (Full Stack) - HTML5, CSS3, NodeJS, Express, noSQL, React, hooks, Redux, Design Patterns.
+- Curso do Básico ao Avançado - Front-end e Back-end (Full Stack) - HTML5, CSS3, NodeJS, Express, noSQL, React, hooks, Redux, Design Patterns.
 - Professor Luiz Otávio Miranda.
 - Certificado de Conclusão de 146 horas.
 
