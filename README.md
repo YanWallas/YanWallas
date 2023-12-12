@@ -9,19 +9,26 @@ Sendo assim estudo e faço alguns cursos além da faculdade para melhor aprendiz
 
 
 
-# Cursos Realizados <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖</font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝</font></font>
+# (Concluído) Curso Basico de ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E).
 
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📍</font></font> -> Curso Basico de JavaScript (40 Horas).
+- Pela Plataforma de Cursos, Curso em Video.
+- Professor Gustavo Guanabara.
+- Certificado de Conclusão de 40 horas.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# (Concluído) Curso Basico de ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  e  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white).
+
+- Pela Plataforma de Cursos, Curso em Video.
+- Professor Gustavo Guanabara.
+- Certificado de Conclusão de 20 horas.
 
 
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📍</font></font> -> Curso Basico de Git e GitHub (20 Horas).
+# (Cursando) Curso do Básico ao Avançado de ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  e  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📍</font></font> -> Cursando atualmente o curso de JavaScript e TypeScript - front-end e back-end (Full Stack) - HTML5, CSS3, NodeJS, Express, noSQL, React, hooks, Redux, Design Patterns.
+- Pela Plataforma de Cursos,  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+- Front-end e Back-end (Full Stack) - HTML5, CSS3, NodeJS, Express, noSQL, React, hooks, Redux, Design Patterns.
+- Professor Luiz Otávio Miranda.
+- Certificado de Conclusão de 146 horas.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,10 +53,12 @@ Sendo assim estudo e faço alguns cursos além da faculdade para melhor aprendiz
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
