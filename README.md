@@ -63,10 +63,11 @@ Sendo assim estudo e faço alguns cursos além da faculdade para melhor aprendiz
 
 
 # Estatística
+
 <p align="center">
-  <a href="https://github.com/YanWallas">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YanWallas&show_icons=true&include_all_commits=true&count_private=false&title_color=6954e3&icon_color=ccbb00&text_color=c9d1d9&bg_color=0d1117"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanWallas&hide_progress=true"/>
-  </a>
+    <a href="https://github.com/YanWallas?tab=repositories">
+        <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YanWallas&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+        <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YanWallas&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
+    </a>
 </p>
 
