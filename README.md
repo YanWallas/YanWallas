@@ -66,7 +66,7 @@ Sendo assim estudo e faço alguns cursos além da faculdade para melhor aprendiz
 <p align="center">
   <a href="https://github.com/YanWallas">
     <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YanWallas&show_icons=true&include_all_commits=true&count_private=false&title_color=6954e3&icon_color=ccbb00&text_color=c9d1d9&bg_color=0d1117"/>
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YanWallas&layout=compact&langs_count=7&title_color=6954e3&icon_color=ccbb00&text_color=c9d1d9&bg_color=0d1117"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanWallas&hide_progress=true"/>
   </a>
 </p>
 
