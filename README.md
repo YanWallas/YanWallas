@@ -9,14 +9,14 @@ Sendo assim estudo e faço alguns cursos além da faculdade para melhor aprendiz
 
 
 
-# (Concluído) Curso Basico de ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E).
+# (Concluído) Curso Basico de  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - Pela Plataforma de Cursos, Curso em Video.
 - Professor Gustavo Guanabara.
 - Certificado de Conclusão de 40 horas.
 
 
-# (Concluído) Curso Basico de ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  e  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white).
+# (Concluído) Curso Basico de ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  e  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - Pela Plataforma de Cursos, Curso em Video.
 - Professor Gustavo Guanabara.
