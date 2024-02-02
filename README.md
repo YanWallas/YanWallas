@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=rgb(139,0,0)&size=32&center=true&vCenter=true&width=1000&lines=OLÁ,+BEM+VINDOS+AO+MEU+PERFIL!;+ME+CHAMO+YAN+WALLAS+E+MORO+EM+GOIÂNIA-GO;TENHO+25+ANOS+E+ESTOU+EM+BUSCA+DE+OPORTUNIDADES!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=rgb(139,0,0)&size=32&center=true&vCenter=true&width=1000&lines=OLÁ,+BEM+VINDOS+AO+MEU+PERFIL!;TENHO+25+ANOS+E+ESTOU+EM+BUSCA+DE+OPORTUNIDADES!)](https://git.io/typing-svg)
 
 Estou fazendo faculdade de Gestão da Tecnologia da Informação (Quase me Formando).
 
