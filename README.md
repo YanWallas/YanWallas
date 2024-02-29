@@ -46,7 +46,7 @@ Sendo assim estudo e faço alguns cursos além da faculdade para melhor aprendiz
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:yanwallas98@gmail.com)
 
 
-# Conhecimento nos conjuntos de ferramentas e tecnologias.
+# CONHECIMENTO DE FERRAMENTAS E TECNOLOGIAS.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
