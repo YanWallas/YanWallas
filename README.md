@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=rgb(139,0,0)&size=32&center=true&vCenter=true&width=1000&lines=OLÁ,+BEM+VINDOS+AO+MEU+PERFIL!;TENHO+25+ANOS+E+ESTOU+EM+BUSCA+DE+OPORTUNIDADES!)](https://git.io/typing-svg)
 
-Estou fazendo faculdade de Gestão da Tecnologia da Informação (Quase me Formando).
+Estou cursando faculdade de Gestão da Tecnologia da Informação (previsão de conclusão 2024/1).
 
 Sou apaixonado na area de programção, por tecnologia e aprendizado constante. 
 
@@ -39,14 +39,14 @@ Sendo assim estudo e faço alguns cursos além da faculdade para melhor aprendiz
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-# Redes Sociais <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📌</font></font>
+# Entrar em Contato <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📌</font></font>
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yanwallas/)
 [![LinkedIn Badge](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/yan-wallas-4730a2239/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:yanwallas98@gmail.com)
 
 
-# CONHECIMENTO DE FERRAMENTAS E TECNOLOGIAS.
+# Conhecimento de Ferramentas e Tecnologias.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
