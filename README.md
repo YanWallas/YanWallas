@@ -9,27 +9,31 @@ Sendo assim estudo e faço alguns cursos além da faculdade para melhor aprendiz
 
 
 
-# Curso Basico de  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# Curso Basico de  JavaScript 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - Pela Plataforma de Cursos, Curso em Video.
 - Professor Gustavo Guanabara.
 - Certificado de Conclusão de 40 horas.
 
 
-# Curso Basico de ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  e  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# Curso Basico de Git e GitHub
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - Pela Plataforma de Cursos, Curso em Video.
 - Professor Gustavo Guanabara.
 - Certificado de Conclusão de 20 horas.
 
+# Curso Fundamentos do C#
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-# Curso Avançado de ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  e  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+- Pela Plataforma de Cursos Balta.io
+- Professor André Baltieri
+- Certificado de Conclusão de 20 horas.
 
-- Pela Plataforma de Cursos,  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-- Curso do Básico ao Avançado - Front-end e Back-end (Full Stack) - HTML5, CSS3, NodeJS, Express, noSQL, React, hooks, Redux, Design Patterns.
-- Professor Luiz Otávio Miranda.
-- Certificado de Conclusão de 146 horas.
 
+# Curso Avançado de JavaScript e TypeScript
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,6 +42,12 @@ Sendo assim estudo e faço alguns cursos além da faculdade para melhor aprendiz
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+- Pela Plataforma de Cursos Udemy
+- Curso do Básico ao Avançado - Front-end e Back-end (Full Stack) - HTML5, CSS3, NodeJS, Express, noSQL, React, hooks, Redux, Design Patterns.
+- Professor Luiz Otávio Miranda.
+- Certificado de Conclusão de 146 horas.
+
 
 # Entrar em Contato <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📌</font></font>
 
