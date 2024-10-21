@@ -1,15 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=rgb(139,0,0)&size=32&center=true&vCenter=true&width=1000&lines=OLÁ,+BEM+VINDOS+AO+MEU+PERFIL!;TENHO+26+ANOS+E+ESTOU+EM+BUSCA+DE+OPORTUNIDADES!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=rgb(139,0,0)&size=32&center=true&vCenter=true&width=1000&lines=OLÁ,+BEM+VINDOS+AO+MEU+PERFIL!;)](https://git.io/typing-svg)
 
-Estou cursando faculdade de Gestão da Tecnologia da Informação (previsão de conclusão 2024/1).
-
-Sou apaixonado na area de programção, por tecnologia e aprendizado constante. 
-
-Sendo assim estudo e faço alguns cursos além da faculdade para melhor aprendizagem e foca mais na area, querendo me torna um programador e atuar na area.
+Formado em Gestão da Tecnologia da Informação, apaixonado por tecnologia e aprendizado constante.
 
 
-
-# Curso Basico de  JavaScript 
+# Basico de JavaScript 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - Pela Plataforma de Cursos, Curso em Video.
@@ -17,14 +12,14 @@ Sendo assim estudo e faço alguns cursos além da faculdade para melhor aprendiz
 - Certificado de Conclusão de 40 horas.
 
 
-# Curso Basico de Git e GitHub
+# Basico de Git e GitHub
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - Pela Plataforma de Cursos, Curso em Video.
 - Professor Gustavo Guanabara.
 - Certificado de Conclusão de 20 horas.
 
-# Curso Fundamentos do C#
+# Fundamentos do C#
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
