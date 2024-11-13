@@ -19,9 +19,9 @@ Desenvolvedor de software junior na Devlbas. trabalhando com a linguagem Ruby on
 * Lógica de Programação
 * Linguagem C#
 * Linguagem Ruby
-* Linguagem Ruby on Rails
 * Linguagem Python
 * Linguagem Javascript
+* Conhecimento Ruby on Rails
 * Conhecimento em HTML, CSS
 * Conhecimento Banco de Dados
 * Conhecimento em Análise de Dados
