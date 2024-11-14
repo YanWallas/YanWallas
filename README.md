@@ -28,6 +28,7 @@ Desenvolvedor de software junior na Devlbas. trabalhando com a linguagem Ruby on
 * Conhecimento Básico Webpack
 * Conhecimento Básico Express.js
 * Conhecimento Básico Node.js
+* Conhecimento Windowns e linux
 * Redes de Computadores (Ethernet,TCP/IP, Roteamento)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
