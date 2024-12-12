@@ -8,9 +8,10 @@ Desenvolvedor de software junior na Devlbas. trabalhando com a linguagem Ruby on
 
 # Entrar em Contato <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📌</font></font>
 
+E-mail: yanwallas98@gmail.com
+
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yanwallas/)
 [![LinkedIn Badge](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/yan-wallas-4730a2239/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:yanwallas98@gmail.com)
 
 
 # Conhecimento, Linguagem e Framework.
