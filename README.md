@@ -19,7 +19,7 @@ E-mail: yanwallas98@gmail.com
 * Git e GitHub
 * Lógica de Programação
 * Linguagem Ruby
-* Linguagem Javascript
+* Linguagem JavaScript
 * Conhecimento Ruby on Rails
 * Conhecimento em HTML, CSS
 * Conhecimento Banco de Dados
