@@ -1,9 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=rgb(139,0,0)&size=32&center=true&vCenter=true&width=1000&lines=OLÁ,+BEM+VINDOS+AO+MEU+PERFIL!;)](https://git.io/typing-svg)
 
-Formado em Gestão da Tecnologia da Informação, apaixonado por tecnologia e aprendizado constante.
+Information Technology Management | Software Developer | JavaScript | ReactJs | Front end : )
 
-Desenvolvedor de software junior (Front-End)
+# Formação
+* Graduação Completa - Gestão de Tecnologia da Informação | UniCambury – Goiânia / Concluído – 10/2024
 
 
 # Entrar em Contato <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📌</font></font>
