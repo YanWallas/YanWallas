@@ -3,7 +3,7 @@
 
 Formado em Gestão da Tecnologia da Informação, apaixonado por tecnologia e aprendizado constante.
 
-Desenvolvedor de software junior na Devlbas. trabalhando com a linguagem Ruby on Rails e React.
+Desenvolvedor de software junior (Front-End)
 
 
 # Entrar em Contato <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📌</font></font>
