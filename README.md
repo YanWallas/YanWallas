@@ -7,13 +7,22 @@ Information Technology Management | Software Developer | JavaScript | ReactJs | 
 * Graduação Completa - Gestão de Tecnologia da Informação | UniCambury – Goiânia / Concluído – 10/2024
 
 
-# Entrar em Contato <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📌</font></font>
+# Cursos Extracurriculares
+#### REDES DE COMPUTADORES – 06/2024 / Curso em Vídeo – Online <br/>
+• Curso de Redes de Computadores (Ethernet, TCP/IP, Roteamento) de 40 horas pela plataforma Curso em Vídeo com Certificado.
+<hr/>
 
-E-mail: yanwallas98@gmail.com
+#### GIT e GITHUB_ – 01/2023 / Curso em Vídeo – Online <br/>
+• Curso de Git e GitHub de 20 horas pela plataforma Curso em Vídeo com Certificado.
+<hr/>
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yanwallas/)
-[![LinkedIn Badge](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/yan-wallas-4730a2239/)
+#### JAVASCRIPT – 11/2022 / Curso em Vídeo – Online
+• Curso de Programação em Javascript de 40 horas pela plataforma Curso em Vídeo com Certificado.
+<hr/>
 
+#### REACTJS – 02/2025 / Udemy – Online
+• Curso de Front-end em ReactJs, administrado pelo Professor Matheus Fraga com Certificado.
+<hr/>
 
 # Conhecimento, Linguagem e Framework.
 
@@ -30,6 +39,7 @@ E-mail: yanwallas98@gmail.com
 * Conhecimento Básico Node.js
 * Conhecimento Windows e Linux
 * Redes de Computadores (Ethernet,TCP/IP, Roteamento)
+<hr/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -48,7 +58,15 @@ E-mail: yanwallas98@gmail.com
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<hr/>
 
+# Entrar em Contato <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📌</font></font>
+
+E-mail: yanwallas98@gmail.com
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yanwallas/)
+[![LinkedIn Badge](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/yan-wallas-4730a2239/)
+<hr/>
 
 # Estatística
 
