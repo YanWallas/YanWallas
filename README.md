@@ -8,19 +8,19 @@ Information Technology Management | Software Developer | JavaScript | ReactJs | 
 
 
 # Cursos Extracurriculares
-#### REDES DE COMPUTADORES – 06/2024 / Curso em Vídeo – Online <br/>
+#### <font style="vertical-align: inherit;">📌</font></font> REDES DE COMPUTADORES – 06/2024 / Curso em Vídeo – Online <br/>
 • Curso de Redes de Computadores (Ethernet, TCP/IP, Roteamento) de 40 horas pela plataforma Curso em Vídeo com Certificado.
 <hr/>
 
-#### GIT e GITHUB_ – 01/2023 / Curso em Vídeo – Online <br/>
+#### <font style="vertical-align: inherit;">📌</font></font> GIT e GITHUB_ – 01/2023 / Curso em Vídeo – Online <br/>
 • Curso de Git e GitHub de 20 horas pela plataforma Curso em Vídeo com Certificado.
 <hr/>
 
-#### JAVASCRIPT – 11/2022 / Curso em Vídeo – Online
+#### <font style="vertical-align: inherit;">📌</font></font> JAVASCRIPT – 11/2022 / Curso em Vídeo – Online
 • Curso de Programação em Javascript de 40 horas pela plataforma Curso em Vídeo com Certificado.
 <hr/>
 
-#### REACTJS – 02/2025 / Udemy – Online
+#### <font style="vertical-align: inherit;">📌</font></font> REACTJS – 02/2025 / Udemy – Online
 • Curso de Front-end em ReactJs, administrado pelo Professor Matheus Fraga com Certificado.
 <hr/>
 
