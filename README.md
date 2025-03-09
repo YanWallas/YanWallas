@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=rgb(139,0,0)&size=32&center=true&vCenter=true&width=1000&lines=OLÁ,+BEM+VINDOS+AO+MEU+PERFIL!;)](https://git.io/typing-svg)
 
-Information Technology Management | Software Developer | JavaScript | ReactJs | Front end : )
+Software Developer | JavaScript | TypeScript| NextJs | ReactJs | NodeJs :)
 
 # Formação
 * Graduação Completa - Gestão de Tecnologia da Informação | UniCambury – Goiânia / Concluído – 10/2024
