@@ -25,7 +25,7 @@ Software Developer | JavaScript | TypeScript| NextJs | ReactJs | NodeJs :)
 <hr/>
 
 #### <font style="vertical-align: inherit;">📌</font></font> PROJETO COMPLETO FULL STACK – 04/2025 / Udemy – Online
-• Curso Projeto Completo NodeJS, React, React Native, TypeScript, administrado pelo Professor Matheus Fraga com Certificado..
+• Curso Projeto Completo NodeJS, React, React Native, TypeScript, administrado pelo Professor Matheus Fraga com Certificado.
 <hr/>
 
 # Conhecimento, Linguagem e Framework.
