@@ -20,8 +20,12 @@ Software Developer | JavaScript | TypeScript| NextJs | ReactJs | NodeJs :)
 • Curso de Programação em Javascript de 40 horas pela plataforma Curso em Vídeo com Certificado.
 <hr/>
 
-#### <font style="vertical-align: inherit;">📌</font></font> REACTJS – 02/2025 / Udemy – Online
+#### <font style="vertical-align: inherit;">📌</font></font> REACTJS AVANÇADO NA PRATICA– 02/2025 / Udemy – Online
 • Curso de Front-end em ReactJs, administrado pelo Professor Matheus Fraga com Certificado.
+<hr/>
+
+#### <font style="vertical-align: inherit;">📌</font></font> PROJETO COMPLETO FULL STACK – 04/2025 / Udemy – Online
+• Curso Projeto Completo NodeJS, React, React Native, TypeScript, administrado pelo Professor Matheus Fraga com Certificado..
 <hr/>
 
 # Conhecimento, Linguagem e Framework.
