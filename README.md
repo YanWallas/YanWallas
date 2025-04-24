@@ -10,25 +10,12 @@ Sou formado em Gestão de Tecnologia da Informação e estou sempre em busca de 
 
 
 # Cursos Extracurriculares
-#### <font style="vertical-align: inherit;">📌</font></font> REDES DE COMPUTADORES – 06/2024 / Curso em Vídeo – Online <br/>
-• Curso de Redes de Computadores (Ethernet, TCP/IP, Roteamento) de 40 horas pela plataforma Curso em Vídeo com Certificado.
-<hr/>
 
-#### <font style="vertical-align: inherit;">📌</font></font> GIT e GITHUB_ – 01/2023 / Curso em Vídeo – Online <br/>
-• Curso de Git e GitHub de 20 horas pela plataforma Curso em Vídeo com Certificado.
-<hr/>
-
-#### <font style="vertical-align: inherit;">📌</font></font> JAVASCRIPT – 11/2022 / Curso em Vídeo – Online
-• Curso de Programação em Javascript de 40 horas pela plataforma Curso em Vídeo com Certificado.
-<hr/>
-
-#### <font style="vertical-align: inherit;">📌</font></font> REACTJS AVANÇADO NA PRATICA– 02/2025 / Udemy – Online
-• Curso de Front-end em ReactJs, administrado pelo Professor Matheus Fraga com Certificado.
-<hr/>
-
-#### <font style="vertical-align: inherit;">📌</font></font> PROJETO COMPLETO FULL STACK – 04/2025 / Udemy – Online
-• Curso Projeto Completo NodeJS, React, React Native, TypeScript, administrado pelo Professor Matheus Fraga com Certificado.
-<hr/>
+#### <font style="vertical-align: inherit;">📌</font></font> Projeto Full Stack - Udemy (04/2025)<hr/>
+#### <font style="vertical-align: inherit;">📌</font></font> React Js Avançado - Udemy (02/2025)<hr/>
+#### <font style="vertical-align: inherit;">📌</font></font> JavaScript - Curso em Vídeo (11/2022)<hr/>
+#### <font style="vertical-align: inherit;">📌</font></font> Git e GitHub - Curso em Vídeo (01/2023)<hr/>
+#### <font style="vertical-align: inherit;">📌</font></font> Redes de Computadores - Curso em Vídeo (06/2024)<hr/>
 
 # Stack Técnica
 
