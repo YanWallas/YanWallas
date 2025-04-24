@@ -1,7 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=rgb(139,0,0)&size=32&center=true&vCenter=true&width=1000&lines=OLÁ,+BEM+VINDOS+AO+MEU+PERFIL!;)](https://git.io/typing-svg)
 
-Software Developer | JavaScript | TypeScript| NextJs | ReactJs | NodeJs :)
+Desenvolvedor de software com experiência em aplicações web e mobile, utilizando tecnologias como React.js, React Native, Node.js e TypeScript. Atuei no desenvolvimento de componentes reutilizáveis, implementação de rotas eficientes e gerenciamento de estado em projetos escaláveis. 
+
+Sou formado em Gestão de Tecnologia da Informação e estou sempre em busca de aprimoramento técnico, com certificado de cursos em JavaScript e React.js, além de constante aprendizado por meio de projetos práticos. Tenho como foco criar soluções acessíveis, inovadoras e de alto impacto.
 
 # Formação
 * Graduação Completa - Gestão de Tecnologia da Informação | UniCambury – Goiânia / Concluído – 10/2024
@@ -28,21 +30,13 @@ Software Developer | JavaScript | TypeScript| NextJs | ReactJs | NodeJs :)
 • Curso Projeto Completo NodeJS, React, React Native, TypeScript, administrado pelo Professor Matheus Fraga com Certificado.
 <hr/>
 
-# Conhecimento, Linguagem e Framework.
+# Stack Técnica
 
-* Git e GitHub
-* Lógica de Programação
-* Linguagem Ruby
-* Linguagem JavaScript
-* Conhecimento Ruby on Rails
-* Conhecimento em HTML, CSS
-* Conhecimento Banco de Dados
-* Conhecimento em Análise de Dados
-* Conhecimento Básico Webpack
-* Conhecimento Básico Express.js
-* Conhecimento Básico Node.js
-* Conhecimento Windows e Linux
-* Redes de Computadores (Ethernet,TCP/IP, Roteamento)
+- **Frontend:** React.js, React Native, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, TypeScript, Ruby, Ruby on Rails
+- **Banco de Dados:** SQL, Oracle, PostgreSQL, MongoDB
+- **Ferramentas:** Git, GitHub, Linux, Windows
+- **Outros:** Redes, Análise de Dados
 <hr/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
