@@ -22,8 +22,8 @@ Sou formado em Gestão de Tecnologia da Informação e estou sempre em busca de 
 - **Frontend:** React.js, React Native, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
 - **Backend:** Node.js, TypeScript, Ruby, Ruby on Rails
 - **Banco de Dados:** SQL, Oracle, PostgreSQL, MongoDB
-- **Ferramentas:** Git, GitHub, Linux, Windows
-- **Outros:** Redes, Análise de Dados
+- **Ferramentas:** Versionamento de Código (Git Flow), GitHub, Linux, Windows
+- **Outros:** Redes, Análise de Dados, Infraestrutura, Clean Code
 <hr/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
