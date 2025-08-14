@@ -73,8 +73,17 @@ E-mail: yanwallas98@gmail.com
 
 <p align="center">
     <a href="https://github.com/YanWallas?tab=repositories">
-        <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YanWallas&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-        <img width="54%" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=YanWallas&theme=gotham&layout=compact&https://github.com/YanWallas/github-readme-stats/>
+        <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YanWallas&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
     </a>
 </p>
+
+<p align="center">
+    <a href="https://github.com/YanWallas?tab=repositories">
+        <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanWallas&layout=compact&langs_count=12&theme=github_dark&bg_color=000000"/>
+    </a>
+</p>
+
+
+
+
 
